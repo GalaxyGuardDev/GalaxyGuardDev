@@ -1,4 +1,6 @@
-Hello 👋
+## Hello 👋
+
+
 
 🔭 I’m currently working on GalaxyGuard
 🌱 Currently learning Lua
